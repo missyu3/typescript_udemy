@@ -14,3 +14,6 @@
   - ts-node
     - コンパイルと実行を同時に実行してくれる
     - npx ts-node src/install-typescript.ts
+  - ts-node-dev
+    - バックグラウンドで対象のファイルを監視し、変更を感知した場合コンパイルしてくれる
+    - npx ts-node-dev --respawn src/install-typescript.ts
