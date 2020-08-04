@@ -21,3 +21,6 @@
       - package.json にコマンドを追加しているため、使用できる。
 - tsconfig.json のデフォルト設定の作成
   - npx tsc --init
+- VSCode の TypeScript の Version と Global の Version を合わせる方法
+  - 右下に表示されている Version をクリック
+  - 表示に合わせてクリック
