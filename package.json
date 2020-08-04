@@ -19,6 +19,7 @@
   "homepage": "https://github.com/missyu3/typescript_udemy#readme",
   "devDependencies": {
     "ts-node": "^8.10.2",
+    "ts-node-dev": "^1.0.0-pre.56",
     "typescript": "^3.9.7"
   }
 }
