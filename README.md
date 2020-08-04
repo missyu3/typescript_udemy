@@ -1,2 +1,11 @@
 - パッケージ管理
   - package.json
+- TypeScriptのインストール
+  - 最新Versionの確認
+    - npm info typescript
+  - インストールコマンド
+    - npm install --save-dev typescript@3.9.7
+    - 開発環境でのみ必要なため、--save-devを追加している
+  - JSへの変換
+    - tsc
+    - ./node_modules/.bin/tsc src/install-typescript.ts 
