@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/missyu3/typescript_udemy/issues"
   },
-  "homepage": "https://github.com/missyu3/typescript_udemy#readme"
+  "homepage": "https://github.com/missyu3/typescript_udemy#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
