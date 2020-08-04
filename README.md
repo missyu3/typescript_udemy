@@ -17,3 +17,5 @@
   - ts-node-dev
     - バックグラウンドで対象のファイルを監視し、変更を感知した場合コンパイルしてくれる
     - npx ts-node-dev --respawn src/install-typescript.ts
+    - npm run dev src/install-typescript.ts 
+      - package.jsonにコマンドを追加しているため、使用できる。
