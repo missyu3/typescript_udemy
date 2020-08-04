@@ -9,3 +9,8 @@
   - JSへの変換
     - tsc
     - ./node_modules/.bin/tsc src/install-typescript.ts 
+    - npx tsc src/install-typescript.ts
+- ツールの紹介
+  - ts-node
+    - コンパイルと実行を同時に実行してくれる
+    - npx ts-node src/install-typescript.ts
