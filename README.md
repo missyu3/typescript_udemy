@@ -11,6 +11,7 @@
     - ./node_modules/.bin/tsc src/install-typescript.ts
     - npx tsc src/install-typescript.ts
 - ツールの紹介
+
   - ts-node
     - コンパイルと実行を同時に実行してくれる
     - npx ts-node src/install-typescript.ts
@@ -19,6 +20,8 @@
     - npx ts-node-dev --respawn src/install-typescript.ts
     - npm run dev src/install-typescript.ts
       - package.json にコマンドを追加しているため、使用できる。
+  - axios
+
 - tsconfig.json のデフォルト設定の作成
   - npx tsc --init
 - VSCode の TypeScript の Version と Global の Version を合わせる方法
