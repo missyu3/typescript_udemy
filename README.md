@@ -24,3 +24,8 @@
 - VSCode の TypeScript の Version と Global の Version を合わせる方法
   - 右下に表示されている Version をクリック
   - 表示に合わせてクリック
+
+## TypeScript の説明
+
+- JS に型が導入されたもの。
+- TypeScript で作成されたソースはコンパイルされることで、JS のソースとなる。
